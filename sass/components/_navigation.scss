@@ -1,0 +1,17 @@
+.vinculo {
+    color: red;
+
+    &:hover{
+        color: blue;
+    }
+}
+
+.navigation{
+    ul{
+        list-style: none;
+        
+        li{
+            @extend .vinculo;
+        }
+    }
+}
