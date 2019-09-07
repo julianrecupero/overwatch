@@ -15,3 +15,6 @@ Para iniciar el proyecto:
 4- Instalar sass:
 -- npm install -g sass
 -- npm install node-sass gulp-sass gulp-series gulp-rename --save-dev
+
+5- Correr sass:
+-- gulp sass-watch
