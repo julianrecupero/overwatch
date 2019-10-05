@@ -1,0 +1,40 @@
+#backgroundmain {
+  background-image: url("../assets/img/bkg.png");
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.trailer {
+  background-color: #00a5e2;
+}
+
+.comprar {
+  background-color: #ff9c00;
+}
+
+.button {
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  border: 0;
+  padding: 10px 0;
+  font-weight: bold;
+}
+
+.HeaderSection-platformIcon {
+  fill: #fff;
+}
+
+.HeaderSection-platformIcon--pc {
+  height: 45px;
+  width: 45px;
+}
+
+.HeaderSection-platformIcon--psn {
+  width: 155px;
+}
+
+.HeaderSection-platformIcon--xbl {
+  width: 155px;
+}
